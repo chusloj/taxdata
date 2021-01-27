@@ -2,7 +2,7 @@ import os
 import glob
 import numpy as np
 import pandas as pd
-from dataprep import dataprep
+from dataprep_INT import dataprep
 
 
 CUR_PATH = os.path.abspath(os.path.dirname(__file__))
